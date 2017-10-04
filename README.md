@@ -15,6 +15,10 @@ A list of apps I use (brew, brew cask, app store)
 ---
 
 ## Brew
+- install from: https://brew.sh/
+- install the below apps by running `brew install {APP NAME}`
+ - `{APP NAME}` is exactly like the apps below in this section
+
 
 ### cask
 - For installing useful apps through commandline
@@ -40,6 +44,9 @@ A list of apps I use (brew, brew cask, app store)
 ---
 
 ## Brew Cask
+- install by running `brew install cask`
+- install the below apps by running `brew cask install {APP NAME}`
+ - `{APP NAME}` is exactly like the apps below in this section
 
 ### caffeine
 - App that lives on the toolbar that can prevent your Mac from sleeping with a button click
