@@ -41,6 +41,9 @@ A list of apps I use (brew, brew cask, app store)
 ### wget
 - Useful since a lot of scripts use wget to download data
 
+### node
+- Node.js and npm
+
 ---
 
 ## Brew Cask
@@ -72,3 +75,15 @@ A list of apps I use (brew, brew cask, app store)
 ### visual-studio-code
 - best code editor <3
 
+### launchrocket
+- a Mac PrefPane to manage all your Homebrew-installed services (e.g. mongodb, nginx, etc...)
+
+### ngrok
+- Secure tunnels to localhost, usefull for opening up API access to an external connection from localhost
+
+---
+
+## Other
+
+# [npm install gtop -g](https://github.com/aksakalli/gtop)
+- for visualizaiton system performance (RAM, CPU, etc...)
