@@ -88,5 +88,5 @@ A list of apps I use (brew, brew cask, app store)
 
 ## Other
 
-# [npm install gtop -g](https://github.com/aksakalli/gtop)
+### [npm install gtop -g](https://github.com/aksakalli/gtop)
 - for visualizaiton system performance (RAM, CPU, etc...)
