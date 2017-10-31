@@ -44,6 +44,9 @@ A list of apps I use (brew, brew cask, app store)
 ### node
 - Node.js and npm
 
+### nginx
+- http server
+
 ### tree
 - a CLI command `tree` that shows a tree view of the current directory
 
