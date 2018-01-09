@@ -93,3 +93,27 @@ A list of apps I use (brew, brew cask, app store)
 
 ### [npm install gtop -g](https://github.com/aksakalli/gtop)
 - for visualizaiton system performance (RAM, CPU, etc...)
+
+### VS Code Settings
+```json
+{
+    "workbench.iconTheme": "vscode-icons",
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.linting.pep8Enabled": true,
+    "vsicons.projectDetection.autoReload": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.multiCursorModifier": "alt",
+    "python.linting.pylintArgs": [
+        "--max-line-length=120"
+    ],
+    "python.linting.pep8Args": [
+        "--max-line-length=120"
+    ],
+    "python.linting.pydocstyleEnabled": true,
+    "trailing-spaces.trimOnSave": true,
+    "window.zoomLevel": 0
+}
+```
