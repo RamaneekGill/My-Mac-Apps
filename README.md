@@ -101,22 +101,42 @@ A list of apps I use (brew, brew cask, app store)
 ```json
 {
     "workbench.iconTheme": "vscode-icons",
-    "python.pythonPath": "/usr/local/bin/python3",
-    "python.linting.pep8Enabled": true,
     "vsicons.projectDetection.autoReload": true,
     "editor.rulers": [
         80,
         120
     ],
     "editor.multiCursorModifier": "alt",
+
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.linting.enabled": true,
     "python.linting.pylintArgs": [
         "--max-line-length=120"
     ],
-    "python.linting.pep8Args": [
-        "--max-line-length=120"
-    ],
     "python.linting.pydocstyleEnabled": true,
+    "autoDocstring.docstringFormat": "google",
+    "python.linting.pydocstyleArgs": ["--ignore=D413,D406,D407,D213,D203"],
+
     "trailing-spaces.trimOnSave": true,
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "gitlens.keymap": "chorded",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": true,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.statusBar.feedback.visible": false,
+    "gitlens.historyExplorer.enabled": false,
+    "gitlens.codeLens.enabled": false,
+
+    "markdownlint.config": {
+        "MD013": false,
+        "MD007": false
+    },
 }
 ```
