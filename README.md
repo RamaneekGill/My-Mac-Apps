@@ -94,6 +94,9 @@ A list of apps I use (brew, brew cask, app store)
 ### [npm install gtop -g](https://github.com/aksakalli/gtop)
 - for visualizaiton system performance (RAM, CPU, etc...)
 
+### [npm install -g fkill-cli](https://github.com/sindresorhus/fkill-cli)
+- fabulously kill process with a nice CLI tool
+
 ### VS Code Settings
 ```json
 {
