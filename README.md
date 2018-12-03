@@ -29,6 +29,9 @@ A list of apps I use (brew, brew cask, app store)
 ### git-flow
 - commandline tool for following a good version control process for projects: https://jeffkreeftmeijer.com/git-flow/
 
+### git-lfs
+- git lfs
+
 ### python3
 - python3 development
 
